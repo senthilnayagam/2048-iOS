@@ -422,10 +422,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Ok-eh-pvf">
-                                <rect key="frame" x="45" y="476" width="229" height="42"/>
+                                <rect key="frame" x="45" y="476" width="220" height="42"/>
                                 <color key="backgroundColor" red="0.55686274509803924" green="0.47843137254901957" blue="0.40392156862745099" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="120" id="3JM-B9-b3z"/>
+                                    <constraint firstAttribute="width" constant="240" id="3JM-B9-b3z"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="25"/>
                                 <state key="normal" title="SAMPOORNA">
