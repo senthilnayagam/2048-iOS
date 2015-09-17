@@ -106,10 +106,10 @@
             int n = [((UILabel *)self.labels[i][j]).text intValue];
             switch (n) {
                 case 2:
-                    ((UILabel *)self.labels[i][j]).backgroundColor = [UIColor colorWithRed:238.0/255.0 green:228.0/255.0 blue:218.0/255.0 alpha:1.0];
+                    ((UILabel *)self.labels[i][j]).backgroundColor = [UIColor colorWithRed:0.799f green:0.818f blue:0.628f alpha:1.00f]; // [UIColor colorWithRed:238.0/255.0 green:228.0/255.0 blue:218.0/255.0 alpha:1.0];
                     break;
                 case 4:
-                    ((UILabel *)self.labels[i][j]).backgroundColor = [UIColor colorWithRed:237.0/255.0 green:224.0/255.0 blue:200.0/255.0 alpha:1.0];
+                    ((UILabel *)self.labels[i][j]).backgroundColor = [UIColor colorWithRed:0.818f green:0.726f blue:0.444f alpha:1.00f]; //[UIColor colorWithRed:237.0/255.0 green:224.0/255.0 blue:200.0/255.0 alpha:1.0];
                     break;
                 case 8:
                     ((UILabel *)self.labels[i][j]).backgroundColor = [UIColor colorWithRed:241.0/255.0 green:177.0/255.0 blue:121.0/255.0 alpha:1.0];
